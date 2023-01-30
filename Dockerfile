@@ -1,4 +1,4 @@
-FROM openjdk:17-jdk-alpine
+FROM openjdk:11-jdk-alpine
 
 ADD target/helloWorld-0.0.1-SNAPSHOT.jar helloWorld-0.0.1-SNAPSHOT.jar
 
